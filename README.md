@@ -22,7 +22,6 @@ Parser combination is "just awesome" and it works perfectly with TDD flow.
         - Read [Parsing in JavaScript: Tools and Libraries](https://tomassetti.me/parsing-in-javascript/#parserCombinators), [fantasy-land](https://github.com/fantasyland/fantasy-land), [bennu](https://github.com/mattbierner/bennu), and [parsimmon](https://github.com/jneen/parsimmon).
 
 - `/zig`
-
 Runtime parser generation. Learned from [Zig, Parser Combinators - and Why They're Awesome](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome).
 + TODO
     - Do this.
