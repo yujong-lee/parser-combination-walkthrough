@@ -4,7 +4,7 @@
 
 Parser combination is "just awesome" and it works perfectly with TDD flow.
 
-- `/jS`
+- `/js`
     + `/basic`
     
         Simple arithmetic expression evaluation. I read [Introduction-to-parser-combinators](https://gist.github.com/yelouafi/556e5159e869952335e01f6b473c4ec1), and wrote it from scratch.
@@ -22,11 +22,13 @@ Parser combination is "just awesome" and it works perfectly with TDD flow.
         - Read [Parsing in JavaScript: Tools and Libraries](https://tomassetti.me/parsing-in-javascript/#parserCombinators), [fantasy-land](https://github.com/fantasyland/fantasy-land), [bennu](https://github.com/mattbierner/bennu), and [parsimmon](https://github.com/jneen/parsimmon).
 
 - `/zig`
+    + `/runtime`
+
+        Leaned from [zig-parser-combinators-and-why-theyre-awesome](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome).
     + TODO
-        - [Runtime parser generation](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome)
         - [Compiletime parser generation](https://github.com/Hejsil/mecha)
         - [Hacker News thread](https://news.ycombinator.com/item?id=26416531)
 
-- `haskell`
+- `/haskell`
 
     TBD
