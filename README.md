@@ -6,9 +6,11 @@ Parser combination is "just awesome" and it works perfectly with TDD flow.
 
 - `/jS`
     + `/basic`
+    
         Simple arithmetic expression evaluation. I read [Introduction-to-parser-combinators](https://gist.github.com/yelouafi/556e5159e869952335e01f6b473c4ec1), and wrote it from scratch.
     
     + `/advance`
+    
         Learned from [pcomb](https://github.com/yelouafi/pcomb). Will be added.
 
     + TODO
@@ -26,4 +28,5 @@ Parser combination is "just awesome" and it works perfectly with TDD flow.
         - [Hacker News thread](https://news.ycombinator.com/item?id=26416531)
 
 - `haskell`
+
     TBD
