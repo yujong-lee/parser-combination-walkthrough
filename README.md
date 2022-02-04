@@ -2,12 +2,14 @@
 
 >  In short, if you need to build a parser, but you don’t actually want to, a parser combinator may be your best option. - [Parsing in JavaScript: Tools and Libraries](https://tomassetti.me/parsing-in-javascript/#parserCombinators)
 
-Parser combination is "just awesome" and it works perfectly with TDD flow.
+There are several algorithmic approaches to write parser. Parser combinators are an example of recursive descent.
 
 - `/js`
     + `/basic`
     
-        Simple arithmetic expression evaluation. I read [Introduction-to-parser-combinators](https://gist.github.com/yelouafi/556e5159e869952335e01f6b473c4ec1), and wrote it from scratch.
+        Simple arithmetic expression evaluation. 
+        
+        I read [Introduction-to-parser-combinators](https://gist.github.com/yelouafi/556e5159e869952335e01f6b473c4ec1), and wrote it from scratch with `TDD flow` which fits perfectly.
     
     + `/advance`
     
