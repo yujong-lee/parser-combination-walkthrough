@@ -32,5 +32,5 @@ There are several algorithmic approaches to write parser. Parser combinators are
         - [Hacker News thread](https://news.ycombinator.com/item?id=26416531)
 
 - `/haskell`
-
-    TBD
+    
+    This code is almost copy & paste from [here](https://hasura.io/blog/parser-combinators-walkthrough/). I'll update it after I became familiar with Haskell.

@@ -1,0 +1,15 @@
+{
+    "test": {
+        "number": 1,
+        "string": "string",
+        "string2": "s",
+		"others": {
+            "list": [1, "2", 3],
+            "nest": {
+                "1": {
+                    "2": "something"
+                }
+            }
+        }
+    }
+}
