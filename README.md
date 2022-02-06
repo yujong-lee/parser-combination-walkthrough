@@ -2,7 +2,7 @@
 
 >  In short, if you need to build a parser, but you don’t actually want to, a parser combinator may be your best option. - [Parsing in JavaScript: Tools and Libraries](https://tomassetti.me/parsing-in-javascript/#parserCombinators)
 
-There are several algorithmic approaches to write parser. Parser combinators are an example of recursive descent.
+There are several algorithmic approaches to write parser. `Parser combinations` are an example of `recursive descent`.
 
 - `/js`
     + `/basic`
